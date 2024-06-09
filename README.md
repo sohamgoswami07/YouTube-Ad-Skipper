@@ -15,7 +15,7 @@ Now, skip your YouTube ads within the blink of your eyes. It accelerates the ad 
   
 # How to use
 Go to your <strong>Chrome</strong> browser extension and enable the <strong>Developer option</strong> in top right corner. Now click on the <strong>Upload button</strong>.
-Upload the zip file and you good to go now. It works automatically. Enjoy ad free YouTube.
+Upload the zip file and that's enough now good to go. It works automatically. Enjoy ad free YouTube.
 
 # Creator
 Created and developed by Soham Goswami..

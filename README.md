@@ -1,5 +1,5 @@
 # YouTube Ad Skipper
-Why do ordinary consumers! Skip YouTube ads..
+Why do ordinary consumers! Skip YouTube ads..  
 ![Screenshot (21)](https://github.com/sohamgoswami07/YouTube-Ad-Skipper/assets/65434681/93325fbe-a240-4efb-a7aa-9a43bd627cc7)
 
 # Language are used

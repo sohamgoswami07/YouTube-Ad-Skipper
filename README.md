@@ -1,6 +1,6 @@
 # YouTube Ad Skipper
 Stream Smoothly. Skip Smartly..  
-(It's a Chrome extension to skip unwanted ads only for YouTube, opened from the Chrome browser.)  
+(It's a Chrome extension to skip unwanted ads only for YouTube, opened from the Chrome browser)  
 ![Screenshot (35)](https://github.com/user-attachments/assets/6907b4d7-7713-4e84-a2d3-81f8014295bd)  
 
 # Language are used

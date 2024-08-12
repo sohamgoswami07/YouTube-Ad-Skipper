@@ -4,9 +4,9 @@ Stream Smoothly. Skip Smartly..
 ![Screenshot (35)](https://github.com/user-attachments/assets/6907b4d7-7713-4e84-a2d3-81f8014295bd)  
 
 # Language are used
-<strong>HTML</strong> and <strong>CSS</strong> for the user experience interface.
-<strong>JavaScript</strong> for the backend.
-<strong>JSON</strong> for making comfprtable for chrome extension.  
+<strong>HTML</strong> and <strong>CSS</strong> for the user experience interface.  
+<strong>JavaScript</strong> for the backend.  
+<strong>JSON</strong> used for making the code comfortable for chrome extension.  
 
 # About this project
 Now, skip your YouTube ads within the blink of your eyes. It accelerates the ad and skips it automatically, ensuring smooth and uninterrupted video viewing.  

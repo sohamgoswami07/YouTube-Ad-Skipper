@@ -1,6 +1,6 @@
 # YouTube Ad Skipper
 Stream Smoothly. Skip Smartly..  
-![Screenshot (21)](https://github.com/sohamgoswami07/YouTube-Ad-Skipper/assets/65434681/93325fbe-a240-4efb-a7aa-9a43bd627cc7)
+![Screenshot (35)](https://github.com/user-attachments/assets/6907b4d7-7713-4e84-a2d3-81f8014295bd)  
 
 # Language are used
 HTML, CSS, JavaScript and JSON  

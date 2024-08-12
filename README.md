@@ -14,8 +14,7 @@ Now, skip your YouTube ads within the blink of your eyes. It accelerates the ad 
 </ul>
   
 # How to use
-Go to your <strong>Chrome</strong> browser extension and enable the <strong>Developer option</strong> in top right corner. Now, click on the <strong>Pack Extension</strong> button and
-upload the zip file or click on the <strong>Load Unpacked</strong> button and upload the extracted zip file. That's enough, now you can enjoy add free YouTube videos.
+Go to your <strong>Chrome</strong> browser <strong>extension</strong> option and enable the <strong>Developer option</strong> in top right corner. Now, click on the <strong>Pack Extension</strong> button and upload the zip file or click on the <strong>Load Unpacked</strong> button and upload the extracted zip file. That's enough, now you can enjoy add free YouTube videos.
 
 # Creator
 Created and developed by Soham Goswami..

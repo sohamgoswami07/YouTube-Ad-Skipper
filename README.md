@@ -1,5 +1,5 @@
 # YouTube Ad Skipper
-Why do ordinary consumers! Skip YouTube ads..  
+Stream Smoothly. Skip Smartly..  
 ![Screenshot (21)](https://github.com/sohamgoswami07/YouTube-Ad-Skipper/assets/65434681/93325fbe-a240-4efb-a7aa-9a43bd627cc7)
 
 # Language are used
@@ -14,8 +14,8 @@ Now, skip your YouTube ads within the blink of your eyes. It accelerates the ad 
 </ul>
   
 # How to use
-Go to your <strong>Chrome</strong> browser extension and enable the <strong>Developer option</strong> in top right corner. Now click on the <strong>Upload button</strong>.
-Upload the zip file and that's enough now good to go. It works automatically. Enjoy ad free YouTube.
+Go to your <strong>Chrome</strong> browser extension and enable the <strong>Developer option</strong> in top right corner. Now, click on the <strong>Pack Extension</strong> button and
+upload the zip file or click on the <strong>Load Unpacked</strong> button and upload the extracted zip file. That's enough, now you can enjoy add free YouTube videos.
 
 # Creator
 Created and developed by Soham Goswami..

@@ -4,11 +4,11 @@ function checkForAds() {
   let skipButton = document.getElementsByClassName("ytp-skip-ad-button")[0];
 
   if (adExist && video) {
-    video.playbackRate = 9.5;
+    video.playbackRate = 16;
     video.muted = true;
   }
 
-  if ((skipButton && !skipButton.clicked) || (skipButton != undefined && skipButton.length > 0)) {
+  if (skipButton && !skipButton.clicked) {
     skipButton.click();
     skipButton.clicked = true;
     chrome.runtime.sendMessage({ adsSkipped: true });
@@ -18,4 +18,4 @@ function checkForAds() {
   }
 }
 
-setInterval(checkForAds, 500);
+setInterval(checkForAds, 100);

@@ -15,10 +15,18 @@ Now, skip your YouTube ads within the blink of your eyes. It accelerates the ad 
   <li><b>Real-time Acceleration:</b> Ads are speed up on the fly.</li>
   <li><b>Auto-Skip:</b> Bypass ads as soon as they become skippable.</li>
   <li><b>User Friendly:</b> It only works on YouTube ads without affecting other websites, software, or downloads.</li>
+</ul>  
+
+# How to use  
+<ul>
+  <li>Download the git repo and extract it in your local directory.</li>  
+  <li>Open Google Chrome.</li>  
+  <li>In the address bar, type chrome://extensions/ and press Enter.</li>  
+  <li>This will open the Extensions page where you can manage and install extensions.</li>  
+  <li>In the Extensions page, toggle the Developer mode switch at the top-right of the page to enable developer features.</li>  
+  <li>Once Developer mode is enabled, click the Load unpacked button.</li>  
+  <li>A file picker will appear. Navigate to the folder containing your extension files (including manifest.json) and select it.</li>  
 </ul>
-  
-# How to use
-Go to your <strong>Chrome</strong> browser <strong>extension</strong> option and enable the <strong>Developer option</strong> in top right corner. Now, click on the <strong>Pack Extension</strong> button and upload the zip file or click on the <strong>Load Unpacked</strong> button and upload the extracted zip file. That's enough, now you can enjoy add free YouTube videos.
 
 # Creator
 Created and developed by Soham Goswami..
@@ -26,4 +34,4 @@ Created and developed by Soham Goswami..
 # For any kind of coding issue or queries, feel free to connect in
 LinkedIn : https://www.linkedin.com/in/soham-goswami-2a5b84143/
 
-Thanks for showing interest..
+<i>If you enjoysed this game, don't forget to give a star 🌟</i>
